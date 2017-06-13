@@ -1,0 +1,29 @@
+{
+  "name": "serverless-aws-lambda-fanout",
+  "version": "1.0.0",
+  "description": "Quickly add a fanout function with configurable targeting to a Serverless Framework project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trek10inc/serverless-aws-lambda-fanout.git"
+  },
+  "keywords": [
+    "serverless",
+    "lambda",
+    "aws",
+    "fanout",
+    "serverless",
+    "framework",
+    "lambda",
+    "fanout"
+  ],
+  "author": "Jared Short <jshort@trek10.com>",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/trek10inc/serverless-aws-lambda-fanout/issues"
+  },
+  "homepage": "https://github.com/trek10inc/serverless-aws-lambda-fanout#readme"
+}
